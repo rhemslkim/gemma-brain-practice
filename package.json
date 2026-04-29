@@ -1,0 +1,12 @@
+{
+  "name": "movie-recommender-app",
+  "version": "1.0.0",
+  "description": "Movie Recommendation App Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.22.1"
+  }
+}
